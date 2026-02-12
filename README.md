@@ -22,11 +22,12 @@ Algorithm
 
 ## Program:
 ```
-/*
+
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: Mahith M
 RegisterNumber: 25004610  
-*/
+
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
